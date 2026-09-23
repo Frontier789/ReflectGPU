@@ -2,6 +2,8 @@
 
 This repo seeks to answer the question, can I automatically mirror my aggregating types to gpu equivalents using C++ reflections.
 
+The complete write-up is available on my blog: [LINK](https://komaro.me/posts/2026_09_22_reflecting_to_the_gpu)
+
 ## Building
 
 As of writing this, only GCC supports reflections on its mainline out of the major C++ compilers. Clang has a [fork](https://github.com/bloomberg/clang-p2996) from Bloomberg with experimental reflection support, and MSVC is completely lacking.
