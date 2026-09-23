@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/include"
+            ],
+            "compilerPath": "/usr/bin/g++-16",
+            "compilerArgs": [
+                "-freflection"
+            ],
+            "cStandard": "c17",
+            "cppStandard": "gnu++26",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
